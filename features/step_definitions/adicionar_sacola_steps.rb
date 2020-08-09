@@ -10,5 +10,5 @@ Então("clico na imagem") do
 end
 
 Então("adiciono à sacola") do
-  find(".button__text", text: "Adicionar à sacolas").click
+  find(".button__text", text: "Adicionar à sacola").click
 end
