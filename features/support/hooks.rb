@@ -1,4 +1,4 @@
 Before do
-  @acess = Acessar.new
+  @acessar = Acessar.new
   page.driver.browser.manage.window.maximize
 end
